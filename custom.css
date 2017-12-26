@@ -4,6 +4,10 @@ img {
   border-radius: 50pt;
 }
 
+body {
+  background-color: rgba(100, 65, 165, 0.1);
+}
+
 .twitch-bar {
   background-color: #6441A4;
   width: 100%;
@@ -20,4 +24,8 @@ img {
   width: 60pt;
   height: 48pt;
   border-radius: none;
+}
+
+.container-align {
+  text-align: left;
 }
