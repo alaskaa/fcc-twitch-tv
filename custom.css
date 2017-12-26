@@ -3,3 +3,21 @@ img {
   height: 30pt;
   border-radius: 50pt;
 }
+
+.twitch-bar {
+  background-color: #6441A4;
+  width: 100%;
+  height: auto;
+}
+
+.twitch {
+  width:auto;
+  max-width:100%;
+  height:auto;
+}
+
+.logo-size {
+  width: 60pt;
+  height: 48pt;
+  border-radius: none;
+}
