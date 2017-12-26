@@ -1,6 +1,8 @@
-$(document).ready(function(e) {
-  e.preventDefault();
-  $.getJSON('https://wind-bow.gomix.me/twitch-api/streams/summary', function(data) {
+$(document).ready(function() {
+
+  $.getJSON('https://wind-bow.gomix.me/twitch-api/users/freecodecamp/?callback=?', function(data) {
     console.log(data);
   });
 });
+
+//streams/summary
